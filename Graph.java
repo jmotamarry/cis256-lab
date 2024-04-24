@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Graph {
+public class Graph {
     private final Map<String, List<String>> adjacencyList;
 
     public Graph() {
